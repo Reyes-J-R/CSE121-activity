@@ -46,5 +46,5 @@ A simple, responsive, and interactive school website built with HTML, CSS, and J
 
 1. **Download or Clone the Project**
    ```bash
-   git clone https://github.com/Reyes-J-R/school-website.git
-   cd school-website
+   git clone https://github.com/Reyes-J-R/CSE121-activity.git
+   cd CSE121-activity
